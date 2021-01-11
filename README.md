@@ -1,4 +1,7 @@
 # laa_patcher
+# Deprecation notice
+
+I'm moving away from GitHub. You will find this [repository](https://git.c-r-t.tk/crt0mega/laa_patcher) at my [Gitea](https://git.c-r-t.tk/crt0mega).
 ## Usage:
 `./laa_patcher win32pe.exe`
 ## What does it do?
